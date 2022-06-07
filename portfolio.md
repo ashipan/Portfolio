@@ -4,15 +4,35 @@
 
 - 舟山諒
 - 1999年5月18日生まれ
+- 北海道大学情報科学院情報科学専攻情報理工学コース
+- 情報知識ネットワーク研究室
+- 研究分野: 列挙アルゴリズム, 最適化アルゴリズム, FPTアルゴリズム, 分岐アルゴリズム
 
 ### Achievement
  ---
- -　第24回JOCジュニアオリンピックカップ　武術太極拳大会
- -　男子刀術A 1位, 男子長拳A 2位, 男子棍術A 1位
+ - 第24回JOCジュニアオリンピックカップ　武術太極拳大会
+ - 男子刀術A 1位, 男子長拳A 2位, 男子棍術A 1位
+ - 4TH ALL JAPAN UNIVERSITY SYREET DANCE CHAMPIONSHIP: 6 Rings Sapporo Prize
+ - THE BLOCK BUSTER vol.12 SIGNATURE BATTLE: BEST 4
+ - HOKKAIDO RIZE CLIMAX @WAARP SAPPORO: BEST8
+ 
+ ### Qualifications
+ - 応用情報技術者
+
  
  ### Competitive Programming
+ - techFUL 第22回　全国ハッカソン 8位　入賞
+ - techFUL 全国の学生を対象としたインターンプログラミングコンテスト 6位
+(https://techful-programming.com/user/event/session/UnpbiFUk)
+ - ゲームフリーク・プログラミングチャレンジ -ピカチュウ サトシとおつかいチュウ！ １位
+(https://athletix.run/user/reports/challenges/gamefreak-all-03) 
+ - kaggle:Tabular Playground Series-Jun 2021 67位/1171 (上位6%)
  - AtCoder:[ashipan](https://atcoder.jp/users/ashipan)
  - Codeforces:[ashipan](https://codeforces.com/profile/ashipan)
  
+ ### Internship
+ - 2022/05/19 株式会社マイクロアドオンライン勉強会：「RTBにおける機械学習の活用事例」（機械学習）
+ 
  ### SNS
  - Instagram(https://www.instagram.com/funayama_ryo)
+ 
