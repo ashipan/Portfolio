@@ -28,7 +28,7 @@
  - techFUL 第22回　全国ハッカソン 8位　入賞
  - techFUL インターン in Summer2022 6位
 (https://techful-programming.com/user/event/session/UnpbiFUk)
- - ゲームフリーク・プログラミングチャレンジ -ピカチュウ サトシとおつかいチュウ！ １位
+ - ゲームフリーク・プログラミングチャレンジ -ピカチュウ サトシとおつかいチュウ！ １位/2197
 (https://athletix.run/user/reports/challenges/gamefreak-all-03) 
  - kaggle:Tabular Playground Series-Jun 2021 67位/1171 (上位6%)
  - AtCoder:[ashipan](https://atcoder.jp/users/ashipan)
