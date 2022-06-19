@@ -8,11 +8,13 @@
 - 情報知識ネットワーク研究室
 - 研究分野: 列挙アルゴリズム, 最適化アルゴリズム, FPTアルゴリズム, 分岐アルゴリズム
 
+
 ### Achievement
  ---
 カンフー
  - 第24回JOCジュニアオリンピックカップ　武術太極拳大会
  - 男子刀術A 1位, 男子長拳A 2位, 男子棍術A 1位
+ 
 ダンス
  - 4TH ALL JAPAN UNIVERSITY SYREET DANCE CHAMPIONSHIP: 6 Rings Sapporo Prize
  - THE BLOCK BUSTER vol.12 SIGNATURE BATTLE: BEST 4
